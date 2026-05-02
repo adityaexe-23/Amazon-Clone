@@ -1,0 +1,1 @@
+# This is a clone of Amazon's front page, fully hardcoded frontend.
